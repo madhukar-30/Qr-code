@@ -46,7 +46,8 @@ figure img {
     text-align: center;
 }
 
-.qr-content header {
+.qr-content header h1{
+     font-size: 1rem;
     font-weight: 700;
     color:var(--Dark_blue);
     padding: 0 2rem;
