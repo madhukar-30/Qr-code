@@ -15,6 +15,11 @@
 
 body {
     background: var(--Lightgray);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
 }
 
 .qr-container {
@@ -22,18 +27,11 @@ body {
     position: absolute;
     font-family: 'Outfit', sans-serif;
     height: 450px;
-    width: 280px;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
+    max-width: 280px;
+  
     border-radius: 1rem;
 }
 
-figure {
-    object-fit: cover;
-    height: 65%;
-
-}
 
 figure img {
     height: 95%;
