@@ -20,9 +20,9 @@ I designed it using absolute positioning.
 ![](./screenshot-qr.png)
 
 ### Links
-- Live Site URL: [Add live site URL here](https://643433dbc1587d40ebd1dae1--chic-medovik-f3eb36.netlify.app/)
+- Live Site URL: [ URL here](https://643433dbc1587d40ebd1dae1--chic-medovik-f3eb36.netlify.app/)
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/master-manas)
+- Frontend Mentor - [@madhukar-30](https://www.frontendmentor.io/profile/madhukar-30)
 
 
 
